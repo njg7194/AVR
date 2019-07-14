@@ -1,0 +1,4 @@
+main DSTACK_USAGE:4 DSTACK_LEVEL:4 FILE:"lcd.c" LINE:14
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:5 FILE:"D:\CodeVision\lib\lcd.lib" LINE:182
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:7 FILE:"D:\CodeVision\lib\lcd.lib" LINE:162
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:8 FILE:"D:\CodeVision\lib\lcd.lib" LINE:81

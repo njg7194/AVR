@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "8bit timer and counter", "8bit timer and counter\8bit timer and counter.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Compare Match", "Compare Match1\Compare Match.cproj", "{D576CA40-989E-4385-9BBF-8312CDFD1535}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Compare Match short ISR", "Compare Match short ISR\Compare Match short ISR.cproj", "{FC7273BD-4812-4DE5-A86A-D795B9335283}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Wave Generate1", "Wave Generate\Wave Generate1.cproj", "{DC03E4AA-A63A-4518-AB58-1ED4D919D998}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Wave Generate2", "Wave Generate2\Wave Generate2.cproj", "{CB831535-D078-41DC-B21B-3AC4DEF82BA1}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "External OSCillator", "External OSCillator\External OSCillator.cproj", "{178FEC38-BD7D-4359-B841-C9C17136017A}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "1s LED Flash using mill function", "1s LED Flash using mill function\1s LED Flash using mill function.cproj", "{67754D1E-21D3-4A3D-A72B-E3558D92044D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{D576CA40-989E-4385-9BBF-8312CDFD1535}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D576CA40-989E-4385-9BBF-8312CDFD1535}.Debug|AVR.Build.0 = Debug|AVR
+		{D576CA40-989E-4385-9BBF-8312CDFD1535}.Release|AVR.ActiveCfg = Release|AVR
+		{D576CA40-989E-4385-9BBF-8312CDFD1535}.Release|AVR.Build.0 = Release|AVR
+		{FC7273BD-4812-4DE5-A86A-D795B9335283}.Debug|AVR.ActiveCfg = Debug|AVR
+		{FC7273BD-4812-4DE5-A86A-D795B9335283}.Debug|AVR.Build.0 = Debug|AVR
+		{FC7273BD-4812-4DE5-A86A-D795B9335283}.Release|AVR.ActiveCfg = Release|AVR
+		{FC7273BD-4812-4DE5-A86A-D795B9335283}.Release|AVR.Build.0 = Release|AVR
+		{DC03E4AA-A63A-4518-AB58-1ED4D919D998}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DC03E4AA-A63A-4518-AB58-1ED4D919D998}.Debug|AVR.Build.0 = Debug|AVR
+		{DC03E4AA-A63A-4518-AB58-1ED4D919D998}.Release|AVR.ActiveCfg = Release|AVR
+		{DC03E4AA-A63A-4518-AB58-1ED4D919D998}.Release|AVR.Build.0 = Release|AVR
+		{CB831535-D078-41DC-B21B-3AC4DEF82BA1}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CB831535-D078-41DC-B21B-3AC4DEF82BA1}.Debug|AVR.Build.0 = Debug|AVR
+		{CB831535-D078-41DC-B21B-3AC4DEF82BA1}.Release|AVR.ActiveCfg = Release|AVR
+		{CB831535-D078-41DC-B21B-3AC4DEF82BA1}.Release|AVR.Build.0 = Release|AVR
+		{178FEC38-BD7D-4359-B841-C9C17136017A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{178FEC38-BD7D-4359-B841-C9C17136017A}.Debug|AVR.Build.0 = Debug|AVR
+		{178FEC38-BD7D-4359-B841-C9C17136017A}.Release|AVR.ActiveCfg = Release|AVR
+		{178FEC38-BD7D-4359-B841-C9C17136017A}.Release|AVR.Build.0 = Release|AVR
+		{67754D1E-21D3-4A3D-A72B-E3558D92044D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{67754D1E-21D3-4A3D-A72B-E3558D92044D}.Debug|AVR.Build.0 = Debug|AVR
+		{67754D1E-21D3-4A3D-A72B-E3558D92044D}.Release|AVR.ActiveCfg = Release|AVR
+		{67754D1E-21D3-4A3D-A72B-E3558D92044D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
